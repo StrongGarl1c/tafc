@@ -1,0 +1,22 @@
+{
+  "name": "tafc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrongGarl1c/tafc.git"
+  },
+  "author": "Yaroslav Pitsur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StrongGarl1c/tafc/issues"
+  },
+  "homepage": "https://github.com/StrongGarl1c/tafc#readme",
+  "dependencies": {
+    "cypress": "^9.4.1"
+  }
+}
